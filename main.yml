@@ -1,3 +1,5 @@
 Installing Apache and packages
+installing php packages
+creating virtualhost from virtualhost.conf.tmpl
+creating test pages
 Restarting Apache
-Enabling Apache
