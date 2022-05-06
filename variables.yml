@@ -1,1 +1,3 @@
+httpd_port 8080
 php memory_limit 512MB
+domain name = www.sample.com
